@@ -40,7 +40,7 @@ practica1/
 4. Para desarrollo: Abre los archivos en un editor como VS Code y modifica según sea necesario.
 
 ## Inconvenientes
-El principal desafio que presento este proyecto fue guardar las diferentes tareas en localStorage, haciendo que estas sean persistentes, ya que en un principio se utilizaron listas para guardar estas tareas.
+El principal desafío que presentó este proyecto fué guardar las diferentes tareas en localStorage, haciendo que éstas sean persistentes, ya que en un principio se utilizaron listas para guardar estas tareas.
 
 ## Resultados y Conclusiones
 La aplicación funciona correctamente en navegadores modernos, proporcionando una experiencia de usuario fluida y responsive. Se logró implementar todas las funcionalidades básicas de una lista de tareas con un diseño atractivo. Para futuras mejoras, se podría integrar sincronización con una API externa, notificaciones push o soporte para categorías de tareas.
